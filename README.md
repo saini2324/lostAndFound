@@ -181,15 +181,7 @@ MY_EMAIL_PASS
   - `userRoutes.js`
   - `userMailRoutes.js`
 
----
-
-## 👤 Maintainer
-
-**Satyam Kumar**  
-
-📧 **Email:** satyamgdbg@gmail.com  
-📸 **Instagram:** [https://www.instagram.com/s4ty4mm](https://www.instagram.com/s4ty4mm/)  
-💼 **LinkedIn:** [https://www.linkedin.com/in/satyam-kumar-3797bb278](https://www.linkedin.com/in/satyam-kumar-3797bb278/)  
+---  
 
 
 💬 *Feel free to open issues, suggest improvements, or contribute via pull requests!*
